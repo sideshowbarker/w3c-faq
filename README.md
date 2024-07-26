@@ -393,7 +393,13 @@ CR Snapshots are static date-stamped versions of the state of a spec — of all
 
 So, everywhere you see *Candidate Recommendation Snapshot*, substitute ***Patent Review Snapshot***.
 
-You typically publish new patent-review Snapshots at some regular cadence — for example, once every 6 months — *if* any [substantive spec changes](#substantive-changes) were made to the spec during the intervening time period.
+The first type of CR your group publishes — after removing the [Working Draft](#what-are-working-drafts) label — must be a Snapshot.
+
+60 days after publishing that first Snapshot, you secure [RF Commitments](#how-can-i-get-royalty-free-licensing-commitments) for *all* [normative](#normative-requirements) features it defines.
+
+After publishing that first Snapshot, you can then start autopublishing [CR Drafts](#when-to-do-cr-drafts).
+
+And after that, you typically publish new patent-review Snapshots at some regular cadence — for example, once every 6 months — *if* any [substantive spec changes](#substantive-changes) were made to the spec during the intervening time period.
 
 60 days after publishing a particular Snapshot, you secure [RF Commitments](#how-can-i-get-royalty-free-licensing-commitments) for *all* [normative](#normative-requirements) features it defines.
 
