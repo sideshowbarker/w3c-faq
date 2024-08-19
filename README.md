@@ -95,7 +95,7 @@ You can secure [Royalty-Free Licensing Commitments](#rf-licensing-commitments) f
 3. Continue to [autopublish](#autopublishing) updated [Working Drafts](#what-are-working-drafts) into [the `w3.org/TR` spec-publication space](#tr-space) and to communicate closely with implementors and others to get the details right.
 4. When your group believes a spec is ready to be fully implemented — and ready to be thoroughly tested (by having a [suite of tests](https://github.com/web-platform-tests/wpt/) to test against) — then, follow the process to get the Working Draft warning label dropped from a spec, and to get the [CR](#candidate-recommendation) label added, and publish the first [Snapshot](#what-are-snapshots) for it.
 
-   60 days after you publish that first [Snapshot](#what-are-snapshots), you’ll have [secured Royalty-Free Licensing Commitments](#how-can-i-get-royalty-free-licensing-commitments) for *all* [normative](#normative-requirements) features defined in that [Snapshot](#what-are-snapshots).
+   60 days after you publish that first [Snapshot](#what-are-snapshots), you’ll have [secured Royalty-Free Licensing Commitments](#how-can-i-get-royalty-free-licensing-commitments) from all participants in your Working Group for *all* [normative](#normative-requirements) features defined in that [Snapshot](#what-are-snapshots).
 
 For information on getting commitments for a Community Group Report, see the [CG Patent Policy](#cg-patent-policy) section.
 
