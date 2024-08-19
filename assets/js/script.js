@@ -24,4 +24,6 @@ tocbot.init({
   // For headings inside relative or absolute positioned containers within content.
   hasInnerContainers: true,
   orderedList: false,
+  // Show the entire table of contents, fully expanded
+  collapseDepth: 6,
 });
