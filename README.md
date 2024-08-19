@@ -485,7 +485,7 @@ So the literal term *“perpetually maintained working-group spec”* would be a
 
 The reason you’d want your spec labeled [“CR”](#candidate-recommendation) — rather than keeping it labeled [“Working Draft”](#working-draft) forever — is this:
 
-#### 👉 ***The only way to secure [RF Commitments](#how-can-i-get-royalty-free-licensing-commitments) for a Working Group spec is by publishing a “CR” [Snapshot](#what-are-snapshots).***
+#### 👉 ***The only way to secure [RF Commitments](#how-can-i-get-royalty-free-licensing-commitments) for a Working Group spec is by publishing a CR [Snapshot](#what-are-snapshots)***
 
 To state that same fact in few more words:
 
